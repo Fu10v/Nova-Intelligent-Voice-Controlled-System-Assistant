@@ -21,7 +21,7 @@
 - **ElevenLabs TTS**
 - **Windows API (via .NET)**
 
-## 🛠️ System Requirements
+## System Requirements
 
 - **OS**: Windows 10/11
 - **Microphone**: integrated or external
