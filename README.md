@@ -2,9 +2,8 @@
 
 **Nova** is an intelligent voice-controlled virtual assistant developed on the **Unity** platform. It allows the user to interact with the Windows operating system using voice commands.
 
-## 🚀 Key features
+## Key features
 
-- **Voice activation**: the "Nova" command wakes up the assistant.
 - **Application management**: opening and closing applications (Chrome, Notepad, Explorer).
 - **Clipboard**: copying and pasting text using voice commands.
 - **Voice speech**: answers are formed and spoken using ElevenLabs.
@@ -13,7 +12,7 @@
 - **Windowless interface**: a minimalist avatar that does not interfere with work.
 - **OS Integration**: running .exe, interacting with windows, commands, text files.
 
-## 🧠 Technologies
+## Technologies
 
 - **Unity Engine**
 - **C#**
