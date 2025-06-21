@@ -1,4 +1,4 @@
-# Nova – Intelligent Voice-Controlled System Assistant 🧠🎙️
+# Nova – Intelligent Voice-Controlled System Assistant
 
 **Nova** is an intelligent voice-controlled virtual assistant developed on the **Unity** platform. It allows the user to interact with the Windows operating system using voice commands.
 
@@ -20,3 +20,8 @@
 - **OpenAI API**
 - **ElevenLabs TTS**
 - **Windows API (via .NET)**
+
+## 🛠️ System Requirements
+
+- **OS**: Windows 10/11
+- **Microphone**: integrated or external
